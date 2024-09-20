@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Android, React**
 
-- 📝 I regularly write articles on [https://dobbypage.notion.site/Welcome-To-Dobby-s-House-5520823eebee4676a6c909d55521342e?pvs=4](https://dobbypage.notion.site/Welcome-To-Dobby-s-House-5520823eebee4676a6c909d55521342e?pvs=4)
+- 📝 I regularly write articles on [[https://dobbypage.notion.site/Welcome-To-Dobby-s-House-5520823eebee4676a6c909d55521342e?pvs=4](https://s.net.vn/47S2)]([https://dobbypage.notion.site/Welcome-To-Dobby-s-House-5520823eebee4676a6c909d55521342e?pvs=4](https://s.net.vn/47S2))
 
 - 💬 Ask me about **Android, React**
 
